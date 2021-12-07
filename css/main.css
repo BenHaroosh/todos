@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.todo-filter {
+    background-color: lightseagreen;
+    padding: 10px;
+}
+.todo-stat {
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: 10px;
+}
+.todo-stat span {
+    font-style: italic;
+    color: blue
+}
